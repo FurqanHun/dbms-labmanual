@@ -1,5 +1,7 @@
 <h1 style="text-align: center;">Lab Tasks DBMS - MySQL</h1>
 
+Following are the quries i used in lab manual tasks, i have also included some additional queries that i didn't do in the lab manual but are relevant to the topic.
+
 # Table Of Content
 - [Lab 01 - Implementation of DDL commands](#lab-01)
 - [Lab 02 - Implementation of DML commands](#lab-02)
@@ -72,6 +74,7 @@ WHERE id = 1;
 DELETE FROM students
 WHERE id = 1;
 ```
+---
 
 # Lab 03
 Implementation of different types of Operators in SQL
